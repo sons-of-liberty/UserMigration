@@ -9,7 +9,7 @@ Instructions:
    
 3. Run this script in your Terminal:
    ```bash
-   wget https://raw.githubusercontent.com/sons-of-liberty/UserMigration/main/UserMig.py
+   wget https://raw.githubusercontent.com/sons-of-liberty/UserMigration/main/UserMig.py && python3 UserMig.py
    ```
    Paste download link and press Enter.
 4. That's all  
