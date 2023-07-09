@@ -7,7 +7,7 @@ Instructions:
    [File.io](https://file.io)
    and copy download link.
    
-3. Run this script in your Terminal:
+3. Run this script on your server:
    ```bash
    wget https://raw.githubusercontent.com/sons-of-liberty/UserMigration/main/UserMig.py && python3 UserMig.py
    ```
